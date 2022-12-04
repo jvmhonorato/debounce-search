@@ -1,0 +1,17 @@
+. intalar React:    npx create-react-app ./
+
+.Em App criar useState query, setQuery
+
+. Criar um label e um input no JSX 
+
+. No input criar o evento onChange chamando uma function com setState dentro 
+
+. Criar um arquivo contendo api chamado THANK_U_NEXT.js e importar em App.js 
+
+.Abstrair tracks de THANK em seguida abstrair item de tracks 
+
+.Criar function getFilteredItems() e criar uma condicional caso não haja query retornar items, se não... retornar os dados filtrados pela query. 
+
+
+
+.
