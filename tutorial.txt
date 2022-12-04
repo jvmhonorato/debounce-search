@@ -13,5 +13,14 @@
 .Criar function getFilteredItems() e criar uma condicional caso não haja query retornar items, se não... retornar os dados filtrados pela query. 
 
 
+LOADASH DEBOUNCE
 
-.
+.instalar o debounce: npm i lodash.debounce
+
+.importar o loadash.debounce:
+
+. Criar uma função updateQuery chamando o setQuery(e?.target?.value)
+
+.Estanciar o modulo debounce(updateQuery, 200) em debounceOnChange passando a função updateQuery chamando o setQuery(e?.target?.value)
+
+.No input passar a função no  onChange(debounceOnChange)
