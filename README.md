@@ -1,5 +1,5 @@
 ## Debounce Search
-application to automatically fetch and render
+Application to automatically fetch and render
 
 
 ## Technology 
