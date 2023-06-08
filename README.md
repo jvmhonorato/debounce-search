@@ -2,7 +2,7 @@
 Application to automatically fetch and render
 
 
-## Technology 
+## Technologies 
 
 Here are the technologies used in this project.
 
